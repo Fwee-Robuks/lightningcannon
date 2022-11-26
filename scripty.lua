@@ -1,4 +1,4 @@
-local FLINGROT = Vector3.new(1000, 1000, 1000)
+local FLINGROT = Vector3.new(99999, 999999, 999999)
 
 
 local Lib = {}
